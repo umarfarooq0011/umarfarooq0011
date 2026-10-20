@@ -31,12 +31,12 @@ My professional work is hosted on [GitLab](https://gitlab.com/automoordms/admin-
 ## Selected projects
 
 <p>
-  <a href="https://github.com/umarfarooq0011/BlogwebfullApp"><img src="./assets/projects/blog-platform.svg" width="49%" alt="Full-Stack Blog Platform — React, Express and MongoDB. Author/admin publishing, comments and AI-assisted drafting. View repository." /></a>
-  <a href="https://github.com/umarfarooq0011/Vue_Ecommere_Dashboard"><img src="./assets/projects/vue-dashboard.svg" width="49%" alt="Vue Commerce Dashboard — Vue 3, TypeScript, Pinia and Vuetify. Product management, search, pagination and uploads. View repository." /></a>
+  <a href="https://github.com/umarfarooq0011/BlogwebfullApp"><img src="./assets/projects/blog-platform.svg" width="400" alt="Full-Stack Blog Platform — React, Express and MongoDB. Author/admin publishing, comments and AI-assisted drafting. View repository." /></a>
+  <a href="https://github.com/umarfarooq0011/Vue_Ecommere_Dashboard"><img src="./assets/projects/vue-dashboard.svg" width="400" alt="Vue Commerce Dashboard — Vue 3, TypeScript, Pinia and Vuetify. Product management, search, pagination and uploads. View repository." /></a>
 </p>
 <p>
-  <a href="https://github.com/umarfarooq0011/Ecommerce_VUE"><img src="./assets/projects/vue-storefront.svg" width="49%" alt="Vue Storefront — Vue 3, Pinia and Tailwind CSS. Product browsing, filtering, a persistent cart and checkout screens. View repository." /></a>
-  <a href="https://github.com/umarfarooq0011/Formbuilder-backend"><img src="./assets/projects/form-builder-api.svg" width="49%" alt="Form Builder API — Express, MongoDB and Mongoose. Form publishing, submission validation and paginated retrieval. View repository." /></a>
+  <a href="https://github.com/umarfarooq0011/Ecommerce_VUE"><img src="./assets/projects/vue-storefront.svg" width="400" alt="Vue Storefront — Vue 3, Pinia and Tailwind CSS. Product browsing, filtering, a persistent cart and checkout screens. View repository." /></a>
+  <a href="https://github.com/umarfarooq0011/Formbuilder-backend"><img src="./assets/projects/form-builder-api.svg" width="400" alt="Form Builder API — Express, MongoDB and Mongoose. Form publishing, submission validation and paginated retrieval. View repository." /></a>
 </p>
 
 Also built [**SaveSpree — Personal Finance Tracker**](https://github.com/umarfarooq0011/Financial-tracker-app): income and expense tracking, budgets, charts, date filters, and PDF export with JavaScript and localStorage.
