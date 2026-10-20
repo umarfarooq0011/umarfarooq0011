@@ -33,6 +33,7 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
 **API & data:** REST APIs, Axios, MongoDB, Mongoose, Redis  
 **Development & testing:** Git, Docker, Vite, Vitest, Playwright
 
+<!-- profile-stats:languages:start -->
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/statistics/repository-languages-mobile-dark.svg" />
   <source media="(max-width: 600px)" srcset="./assets/statistics/repository-languages-mobile-light.svg" />
@@ -40,7 +41,8 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
   <img src="./assets/statistics/repository-languages-light.svg" width="100%" alt="Percentage breakdown of every detected language across my public GitHub project repositories." />
 </picture>
 
-<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages.</sub>
+<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages. Updated 20 October 2026.</sub>
+<!-- profile-stats:languages:end -->
 
 ## Professional experience
 
@@ -53,14 +55,18 @@ Contributing to **automotiveDMS**, a dealership management platform:
 - Build reusable Vue 3 components and composables with TypeScript, Vuetify, and Pinia.
 - Integrate REST APIs and maintain responsive, multilingual interfaces with role-aware UI behavior and automated tests.
 
-**1,032 authored non-merge commits across 180 active days** in the GitLab frontend repository, verified on 20 October 2026.
+**Currently building [Foldercutting Dashboard](https://github.com/RigRex/foldercutting-fe)** — a Vue 3 and TypeScript dashboard with reusable components, Pinia state management, and role-aware navigation. In development at RigRex; repository access is required.
+
+<!-- profile-stats:gitlab:start -->
+**1,032 authored non-merge commits across 180 active days** during the last 365 days.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/automotivedms-contributions-dark.svg" />
-  <img src="./assets/statistics/automotivedms-contributions-light.svg" width="100%" alt="automotiveDMS GitLab contributions: 1,032 authored non-merge commits across 180 active days, 21 October 2025–20 October 2026." />
+  <img src="./assets/statistics/automotivedms-contributions-light.svg" width="100%" alt="automotiveDMS authored non-merge contributions on GitLab." />
 </picture>
 
-<sub>GitLab activity · Author dates on the default branch, dev · 21 October 2025–20 October 2026</sub>
+<sub>GitLab activity · Author dates on the default branch, dev · 21 October 2025–20 October 2026 · Refreshed automatically; last update 20 October 2026.</sub>
+<!-- profile-stats:gitlab:end -->
 
 **Frontend Developer · Fiverr**  
 July 2024–January 2025
@@ -73,6 +79,7 @@ July 2024–January 2025
 - [**Form Builder API**](https://github.com/umarfarooq0011/Formbuilder-backend) — Express and MongoDB API for form publishing, submission validation, and paginated retrieval.
 - [**SaveSpree**](https://github.com/umarfarooq0011/Financial-tracker-app) — JavaScript finance tracker with income and expense management, budgets, charts, date filtering, and PDF export.
 
+<!-- profile-stats:github:start -->
 ## GitHub activity
 
 <picture>
@@ -80,7 +87,8 @@ July 2024–January 2025
   <img src="./assets/statistics/github-contributions-light.svg" width="100%" alt="Contribution calendar showing the activity visible on my public GitHub profile." />
 </picture>
 
-<sub>GitHub and GitLab graphs show their respective activity separately. Graphs are snapshots verified on 20 October 2026.</sub>
+<sub>GitHub activity refreshes automatically and is separate from GitLab activity. Updated 20 October 2026.</sub>
+<!-- profile-stats:github:end -->
 
 ---
 
