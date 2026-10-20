@@ -34,6 +34,8 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
 **Development & testing:** Git, Docker, Vite, Vitest, Playwright
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/statistics/repository-languages-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/statistics/repository-languages-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/repository-languages-dark.svg" />
   <img src="./assets/statistics/repository-languages-light.svg" width="100%" alt="Percentage breakdown of every detected language across my public GitHub project repositories." />
 </picture>
