@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="38" viewBox="0 0 112 38" role="img" aria-label="Docker">
+  <title>Docker</title>
+  <rect x=".5" y=".5" width="111" height="37" rx="7" fill="#101827" stroke="#29384c"/>
+  <rect x="12" y="13" width="12" height="12" rx="3" fill="#77b7ff"/>
+  <text x="34" y="24" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#edf3ff">Docker</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title desc">
+  <title id="title">Vue Admin Dashboard</title>
+  <desc id="desc">Vue 3, TypeScript, Pinia, and Vuetify dashboard with product CRUD, search, pagination, and image uploads.</desc>
+  <rect x="1" y="1" width="598" height="278" rx="20" fill="#101827" stroke="#29374b" stroke-width="2"/>
+  <path d="M29 1h86" stroke="#77b7ff" stroke-width="3"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="41" fill="#77b7ff" font-size="18" font-weight="700">02</text>
+    <text x="66" y="41" fill="#a5b4c8" font-size="16" font-weight="600" letter-spacing="1.5">TYPED ADMIN INTERFACE</text>
+    <text x="28" y="91" fill="#edf3ff" font-size="32" font-weight="700">Vue Admin Dashboard</text>
+    <text x="28" y="136" fill="#a5b4c8" font-size="22">Product CRUD · search</text>
+    <text x="28" y="169" fill="#a5b4c8" font-size="22">Pagination · image uploads</text>
+    <g transform="translate(28 217)">
+      <rect width="79" height="34" rx="8" fill="#0b1220" stroke="#29374b"/>
+      <text x="39.5" y="23" text-anchor="middle" fill="#46ddbd" font-size="18">Vue 3</text>
+      <rect x="89" width="119" height="34" rx="8" fill="#0b1220" stroke="#29374b"/>
+      <text x="148.5" y="23" text-anchor="middle" fill="#77b7ff" font-size="18">TypeScript</text>
+      <rect x="218" width="76" height="34" rx="8" fill="#0b1220" stroke="#29374b"/>
+      <text x="256" y="23" text-anchor="middle" fill="#edf3ff" font-size="18">Pinia</text>
+      <rect x="304" width="89" height="34" rx="8" fill="#0b1220" stroke="#29374b"/>
+      <text x="348.5" y="23" text-anchor="middle" fill="#edf3ff" font-size="18">Vuetify</text>
+    </g>
+  </g>
+  <g transform="translate(456 56)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="116" height="109" rx="11" fill="#0b1220" stroke="#31435c"/>
+    <path d="M26 0v109M26 25h90" stroke="#31435c"/>
+    <path d="M10 15h7M10 34h7M10 46h7M10 58h7" stroke="#5b718c" stroke-width="3"/>
+    <rect x="38" y="10" width="62" height="7" rx="3" fill="#77b7ff" fill-opacity=".45"/>
+    <path d="M38 42h60M38 59h60M38 76h60" stroke="#31435c"/>
+    <path d="M39 34h21M39 51h32M39 68h26" stroke="#a5b4c8" stroke-width="3"/>
+    <path d="M87 34h10M87 51h10M87 68h10" stroke="#46ddbd" stroke-width="3"/>
+    <rect x="75" y="87" width="13" height="12" rx="3" fill="#77b7ff" fill-opacity=".3"/>
+    <path d="M95 91l3 3-3 3" stroke="#77b7ff" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="42" viewBox="0 0 212 42" role="img" aria-label="Professional work">
+  <title>Professional work</title>
+  <rect x=".5" y=".5" width="211" height="41" rx="8" fill="#101827" stroke="#34465d"/>
+  <text x="16" y="27" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#ffa28b">Professional work</text>
+  <path d="M181 26l10-10m-8 0h8v8" fill="none" stroke="#ffa28b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
