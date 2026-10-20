@@ -33,7 +33,7 @@ Front-end development for freelance clients.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,tailwind,vuetify,pinia,redux,threejs" alt="Vue, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vuetify, Pinia, Redux, Three.js" />
+<img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,tailwind,threejs" alt="Vue, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Three.js" />
 
 **Backend and data**
 
@@ -43,7 +43,7 @@ Front-end development for freelance clients.
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,vite,vitest,vercel,netlify" alt="Git, GitHub, GitLab, Docker, GitHub Actions, Vite, Vitest, Vercel, Netlify" />
 
-Also: Vue Router · React Router · TanStack Query · Axios · Mongoose · JWT auth · vue-i18n · CASL · Chart.js · ECharts · Playwright
+Also: Vuetify · Pinia · Redux · Vue Router · React Router · TanStack Query · Axios · Mongoose · JWT auth · vue-i18n · CASL · Chart.js · ECharts · Playwright
 
 ## Featured projects
 
