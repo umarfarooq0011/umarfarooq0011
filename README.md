@@ -2,7 +2,7 @@
 
 ### Software Engineer | Frontend & Full-Stack Development
 
-[LinkedIn](https://www.linkedin.com/in/umer-farooq-96b70430a/) · [GitHub projects](https://github.com/umarfarooq0011?tab=repositories) · [automotiveDMS on GitLab](https://gitlab.com/automoordms/admin-frontend)
+[LinkedIn](https://www.linkedin.com/in/umer-farooq-96b70430a/) · [GitHub projects](https://github.com/umarfarooq0011?tab=repositories) · [GitLab](https://gitlab.com/Umarfarooq1122) · [automotiveDMS](https://gitlab.com/automoordms/admin-frontend)
 
 Software Engineer at **RigRex**, specializing in frontend and full-stack web development with **Vue.js, TypeScript, React, Node.js, Express, and MongoDB**. My experience includes dealership management systems, reusable frontend architecture, state management, REST API integration, and automated testing.
 
@@ -32,6 +32,13 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
 **State management:** Pinia, Redux, React Query  
 **API & data:** REST APIs, Axios, MongoDB, Mongoose, Redis  
 **Development & testing:** Git, Docker, Vite, Vitest, Playwright
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/repository-languages-dark.svg" />
+  <img src="./assets/statistics/repository-languages-light.svg" width="100%" alt="Percentage breakdown of every detected language across my public GitHub project repositories." />
+</picture>
+
+<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages.</sub>
 
 ## Professional experience
 
@@ -63,6 +70,15 @@ July 2024–January 2025
 - [**Vue Storefront**](https://github.com/umarfarooq0011/Ecommerce_VUE) — Vue 3 and Pinia storefront with product filtering, a persistent cart, and checkout screens.
 - [**Form Builder API**](https://github.com/umarfarooq0011/Formbuilder-backend) — Express and MongoDB API for form publishing, submission validation, and paginated retrieval.
 - [**SaveSpree**](https://github.com/umarfarooq0011/Financial-tracker-app) — JavaScript finance tracker with income and expense management, budgets, charts, date filtering, and PDF export.
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/github-contributions-dark.svg" />
+  <img src="./assets/statistics/github-contributions-light.svg" width="100%" alt="Contribution calendar showing the activity visible on my public GitHub profile." />
+</picture>
+
+<sub>GitHub and GitLab graphs show their respective activity separately. Graphs are snapshots verified on 20 October 2026.</sub>
 
 ---
 
