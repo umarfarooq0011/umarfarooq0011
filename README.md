@@ -41,7 +41,7 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
   <img src="./assets/statistics/repository-languages-light.svg" width="100%" alt="Percentage breakdown of every detected language across my public GitHub project repositories." />
 </picture>
 
-<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages. Updated 24 October 2026.</sub>
+<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages. Updated 26 October 2026.</sub>
 <!-- profile-stats:languages:end -->
 
 ## Professional experience
@@ -65,7 +65,7 @@ Contributing to **automotiveDMS**, a dealership management platform:
   <img src="./assets/statistics/automotivedms-contributions-light.svg" width="100%" alt="automotiveDMS authored non-merge contributions on GitLab." />
 </picture>
 
-<sub>GitLab activity · Author dates on the default branch, dev · 25 October 2025–24 October 2026 · Refreshed automatically; last update 24 October 2026.</sub>
+<sub>GitLab activity · Author dates on the default branch, dev · 27 October 2025–26 October 2026 · Refreshed automatically; last update 26 October 2026.</sub>
 <!-- profile-stats:gitlab:end -->
 
 **Frontend Developer · Fiverr**  
@@ -87,7 +87,7 @@ July 2024–January 2025
   <img src="./assets/statistics/github-contributions-light.svg" width="100%" alt="Contribution calendar showing the activity visible on my public GitHub profile." />
 </picture>
 
-<sub>GitHub activity refreshes automatically and is separate from GitLab activity. Updated 24 October 2026.</sub>
+<sub>GitHub activity refreshes automatically and is separate from GitLab activity. Updated 26 October 2026.</sub>
 <!-- profile-stats:github:end -->
 
 ---
