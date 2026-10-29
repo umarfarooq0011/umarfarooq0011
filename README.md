@@ -41,7 +41,7 @@ Software Engineer at **RigRex**, specializing in frontend and full-stack web dev
   <img src="./assets/statistics/repository-languages-light.svg" width="100%" alt="Percentage breakdown of every detected language across my public GitHub project repositories." />
 </picture>
 
-<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages. Updated 27 October 2026.</sub>
+<sub>Percentages reflect code size across all my public non-fork repositories, excluding this profile repository. Frameworks such as React and Express are represented through their source languages. Updated 29 October 2026.</sub>
 <!-- profile-stats:languages:end -->
 
 ## Professional experience
@@ -58,14 +58,14 @@ Contributing to **automotiveDMS**, a dealership management platform:
 **Currently building [Foldercutting Dashboard](https://github.com/RigRex/foldercutting-fe)** — a Vue 3 and TypeScript dashboard with reusable components, Pinia state management, and role-aware navigation. In development at RigRex; repository access is required.
 
 <!-- profile-stats:gitlab:start -->
-**1,026 authored non-merge commits across 178 active days** during the last 365 days.
+**1,017 authored non-merge commits across 176 active days** during the last 365 days.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/automotivedms-contributions-dark.svg" />
   <img src="./assets/statistics/automotivedms-contributions-light.svg" width="100%" alt="automotiveDMS authored non-merge contributions on GitLab." />
 </picture>
 
-<sub>GitLab activity · Author dates on the default branch, dev · 28 October 2025–27 October 2026 · Refreshed automatically; last update 27 October 2026.</sub>
+<sub>GitLab activity · Author dates on the default branch, dev · 30 October 2025–29 October 2026 · Refreshed automatically; last update 29 October 2026.</sub>
 <!-- profile-stats:gitlab:end -->
 
 **Frontend Developer · Fiverr**  
@@ -87,7 +87,7 @@ July 2024–January 2025
   <img src="./assets/statistics/github-contributions-light.svg" width="100%" alt="Contribution calendar showing the activity visible on my public GitHub profile." />
 </picture>
 
-<sub>GitHub activity refreshes automatically and is separate from GitLab activity. Updated 27 October 2026.</sub>
+<sub>GitHub activity refreshes automatically and is separate from GitLab activity. Updated 29 October 2026.</sub>
 <!-- profile-stats:github:end -->
 
 ---
